@@ -5,7 +5,7 @@
 ## Requirements
 
 · npm is installed  
-· gulp is installed globally
+· gulp is installed globally  
 · Visual Studio Code is installed with Haxe Support Plugin
 
 ### Instructions to use:  
